@@ -1,3 +1,4 @@
+import Blog from '@/components/blog/Blog'
 import Product from '@/components/product/Product'
 import Slider from '@/components/slider/Slider'
 
@@ -8,6 +9,7 @@ const page = () => {
    <>
     <Slider/>
     <Product/>
+    <Blog/>
     
 
    </>
